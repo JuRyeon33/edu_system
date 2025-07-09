@@ -10,3 +10,4 @@ plugins {
 }
 
 rootProject.name = 'edu_system_2'
+
